@@ -27,13 +27,19 @@ https://www.kaggle.com/competitions/telecom-churn-case-study-hackathon-c-66
 
 The repo contains a jupyter notebook (Telecom churn case study.ipynb file)
 
-## The content is organized as 
+## Table of Contents 
 1. Problem Statement
 2. Data Cleaning and Missing Data imputation with KNN Imputer
-3. EDA ( Univariate and Bivariate )
+3. EDA
+   1. Univariate
+   2. Bivariate
 4. Train Test Split
-5. Feature Selection with RFE,PCA
-6. Feature Engineering , Class Imbalance Handling with Adaptive Synthetic Sampling
+5. Feature Selection
+       1.RFE
+       2.PCA
+6. Feature Engineering
+    1. Scaling
+    2. Class Imbalance Handling with Adaptive Synthetic Sampling
 7. Model Creation
     1. Logistic Regression
     2. SVC
